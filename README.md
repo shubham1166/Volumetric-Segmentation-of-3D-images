@@ -20,5 +20,5 @@ The Loss functions used, results and  conclusions are explained broadly in the r
 
 
 
-[1] Amber L Simpson, Michela Antonelli, Spyridon Bakas, Michel Bilello,Keyvan Farahani,Bram van Ginneken, Annette Kopp-Schneider, Bennett A Landman, Geert Litjens, Bjoern Menze, et al. A large annotated medical image dataset for the development and evaluation of segmentation algorithms. arXiv preprint arXiv:1902.09063, 2019. 
+[1] Amber L Simpson, Michela Antonelli, Spyridon Bakas, Michel Bilello,Keyvan Farahani,Bram van Ginneken, Annette Kopp-Schneider, Bennett A Landman, Geert Litjens, Bjoern Menze, et al. A large annotated medical image dataset for the development and evaluation of segmentation algorithms. arXiv preprint arXiv:1902.09063, 2019.  <br />
 [2]Çiçek, Özgün, et al. "3D U-Net: learning dense volumetric segmentation from sparse annotation." International conference on medical image computing and computer-assisted intervention. Springer, Cham, 2016.
